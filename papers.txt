@@ -1,0 +1,23 @@
+Introducing Neural Bag of Whole-Words with ColBERTer: Contextualized Late Interactions using Enhanced Reduction, 2203.13088
+Hindsight: Posterior-Guided Training of Retrievers for Improved Open-Ended Generation, 2110.07752
+ColBERTv2: Effective and Efficient Retrieval via Lightweight Late Interaction, 2112.01488
+PLAID: An Efficient Engine for Late Interaction Retrieval, 2205.09707
+DEMONSTRATE–SEARCH–PREDICT: Composing retrieval and language models for knowledge-intensive NLP, 2212.14024
+A Survey on Trustworthy Recommender Systems, 2207.12515
+Varational Open-Domain Question Answering, 2210.06345
+QUILL: Query Intent with Large Language Models using Retrieval Augmentation and Multi-stage Distillation, 2210.15718
+OPERA: Harmonizing Task-Oriented Dialogs and Information Seeking Experience, 2206.12449
+Multiresolution Transformer Networks: Recurrence is Not Essential for Modeling Hierarchical Structure, 1908.10408
+Recent Advances in Automated Question Answering In Biomedical Domain, 2111.05937
+CorpusBrain: Pre-train a Generative Retrieval Model for Knowledge-Intensive Language Tasks, 2208.07652
+Unsupervised Dense Retrieval Deserves Better Positive Pairs: Scalable Augmentation with Query Extraction and Generation, 2212.08841
+Out-of-Domain Semantics to the Rescue! Zero-Shot Hybrid Retrieval Models, 2201.10582
+Retrieval-Enhanced Machine Learning, 2205.01230
+Dense Text Retrieval based on Pretrained Language Models: A Survey, 2211.14876
+Decoupled Context Processing for Context Augmented Language Modeling, 2210.05758
+Relation Extraction as Open-book Examination: Retrieval-enhanced Prompt Tuning, 2205.02355
+End-to-End Training of Multi-Document Reader and Retriever for Open-Domain Question Answering, 2106.05346
+Unsupervised Alignment-based Iterative Evidence Retrieval for Multi-hop Question Answering, 2005.01218
+Ultra-High Dimensional Sparse Representations with Binarization for Efficient Text Retrieval, 2104.07198
+Aggretriever: A Simple Approach to Aggregate Textual Representation for Robust Dense Passage Retrieval, 2208.00511
+Reasoning with Language Model Prompting: A Survey, 2212.09597
